@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
-    <parameter name="Email" value="Priya2@gmail.com"></parameter>
+    <parameter name="Email" value="dinesh@gmail.com"></parameter>
   <parameter name="Password" value="abcd@123"></parameter>
   <parameter name="FirstName" value="Deva"></parameter>
    <parameter name="LastName" value="dharshni"></parameter>
